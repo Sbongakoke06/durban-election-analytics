@@ -1,0 +1,8 @@
+Item,Value
+Municipality,eThekwini Metropolitan Municipality
+Historical Elections,"2011, 2016, 2021"
+Forecast Election Date,04 November 2026
+Selected Model,Naive Baseline
+Primary Metric,Mean Absolute Error (MAE)
+Historical Test MAE,1.757 percentage points
+Forecast Type,PR vote-share baseline estimate
